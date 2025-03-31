@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Project Name</h1>
+        <h1>jax-rs-Product</h1>
         <p>Short description of your project.</p>
     </header>
     <section>
