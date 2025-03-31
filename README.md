@@ -5,10 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <header>
-        <h1>jax-rs-Product</h1>
-        <p>Short description of your project.</p>
-    </header>
     <section>
         <h2>Overview</h2>
         <ul>
